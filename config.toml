@@ -1,0 +1,53 @@
+baseURL = "http://example.com/"
+languageCode = "en-us"
+title = "Mech Commander 2 HD"
+theme = "ananke"
+keywords = "opengl c++ game port mech commander"
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+
+# this is commented because I want my custom menu (without /pages directory because there is no content yet there)
+#SectionPagesMenu = "main"
+
+Paginate = 10 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[params]
+  favicon = ""
+  description = "A simple linux port and engine rewrite to OpenGL"
+  facebook = ""
+  twitter = ""
+  instagram = ""
+  youtube = ""
+  github = "https://github.com/alariq/mc2"
+  gitlab = ""
+  linkedin = ""
+  mastodon = ""
+  mainSections = ["post", "blog"]  
+
+
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+
+  #body_classes = "avenir bg-dark-grey"
+
+  featured_image = "/images/title.jpg"
+  recent_posts_number = 15
+
+
+# custom menu example
+[menu]
+  [[menu.main]]
+    identifier = "blog"
+    name = "DevBlog"
+    title = "Blog"
+    url = "/blog/"
+    weight = 100
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    title = "About"
+    url = "/about/"
+    weight = -150
