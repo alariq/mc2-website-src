@@ -10,4 +10,4 @@ added word wrap for rendering
 
 big todo: rewrite this client code: `aFont::height`
 
-Image of the day: [{{< figure src="/images/devblog/day33_2016-10-29-010228_3841x1201_scrot.png" alt="click to expand">}}](/images/devblog/day33_2016-10-29-010228_3841x1201_scrot.png)
+Image of the day: {{< image-ref src="/images/devblog/day33_2016-10-29-010228_3841x1201_scrot.png" alt="click to expand">}}

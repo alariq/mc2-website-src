@@ -17,4 +17,4 @@ but now Viewer application crahses :-) will have to look into it, but tomorrow..
 
 bye!
 
-Image of the day: [{{< figure src="/images/devblog/day39_2016-11-06-004815_3841x1201_scrot.png" alt="click to expand">}}](/images/devblog/day39_2016-11-06-004815_3841x1201_scrot.png)
+Image of the day: {{< image-ref src="/images/devblog/day39_2016-11-06-004815_3841x1201_scrot.png" alt="click to expand">}}

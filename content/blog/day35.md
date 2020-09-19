@@ -16,4 +16,4 @@ probably have to run modified windows version and decompress+dump all files :-) 
 
 added draw indexed triangles function, so now I see models! yay!
 
-Image of the day: [{{< figure src="/images/devblog/day35_2016-11-01-233517_3841x1201_scrot.png" alt="click to expand">}}](/images/devblog/day35_2016-11-01-233517_3841x1201_scrot.png)
+Image of the day: {{< image-ref src="/images/devblog/day35_2016-11-01-233517_3841x1201_scrot.png" alt="click to expand">}}

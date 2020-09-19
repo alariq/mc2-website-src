@@ -10,4 +10,4 @@ also fixed memeory corruption, phew....
 
 need to think about resource resuage, same textures/fonts are loaded several times alsways creating new resource, this is not good!
 
-Image of the day: [{{< figure src="/images/devblog/day32_2016-10-28-013010_3841x1201_scrot.png" alt="click to expand">}}](/images/devblog/day32_2016-10-28-013010_3841x1201_scrot.png)
+Image of the day: {{< image-ref src="/images/devblog/day32_2016-10-28-013010_3841x1201_scrot.png" alt="click to expand">}}

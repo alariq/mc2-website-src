@@ -134,4 +134,4 @@ if ((memBlock < getHeapPtr()) || (memBlock >= (getHeapPtr() + totalSize)))
 }
 ```
 
-Image of the day: [{{< figure src="/images/devblog/day43_2016-11-12-000015_636x165_scrot.png" alt="click to expand">}}](/images/devblog/day43_2016-11-12-000015_636x165_scrot.png)
+Image of the day: {{< image-ref src="/images/devblog/day43_2016-11-12-000015_636x165_scrot.png" alt="click to expand">}}

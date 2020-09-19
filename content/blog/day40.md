@@ -19,4 +19,4 @@ so had to go through all such places and fix them.
 
 phew.., hope I fixed all of them
 
-Image of the day: [{{< figure src="/images/devblog/day40_2016-11-07-004357_3841x1201_scrot.png" alt="click to expand">}}](/images/devblog/day40_2016-11-07-004357_3841x1201_scrot.png)
+Image of the day: {{< image-ref src="/images/devblog/day40_2016-11-07-004357_3841x1201_scrot.png" alt="click to expand">}}

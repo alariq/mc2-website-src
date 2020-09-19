@@ -10,4 +10,4 @@ basically added quads/lines/points/tris drawing (no textures yet, though) and so
 
 and also wrote first shader
 
-Image of the day: [{{< figure src="/images/devblog/day26_2016-10-15-010123_3841x1201_scrot.png" alt="click to expand">}}](/images/devblog/day26_2016-10-15-010123_3841x1201_scrot.png)
+Image of the day: {{< image-ref src="/images/devblog/day26_2016-10-15-010123_3841x1201_scrot.png" alt="click to expand">}}

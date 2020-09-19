@@ -16,4 +16,4 @@ But now it is fixed, and I can sleep well!
 
 but first drink some tea!
 
-Image of the day: [{{< figure src="/images/devblog/day83_2017-03-12-010816_3841x1201_scrot.png" alt="click to expand">}}](/images/devblog/day83_2017-03-12-010816_3841x1201_scrot.png)
+Image of the day: [{{< image-ref src="/images/devblog/day83_2017-03-12-010816_3841x1201_scrot.png" alt="click to expand">}}](/images/devblog/day83_2017-03-12-010816_3841x1201_scrot.png)
